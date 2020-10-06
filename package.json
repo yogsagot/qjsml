@@ -1,0 +1,25 @@
+{
+  "name": "qjsml",
+  "version": "0.0.1",
+  "description": "stub for future project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogsagot/qjsml.git"
+  },
+  "keywords": [
+    "qt",
+    "qml",
+    "javascript",
+    "js"
+  ],
+  "author": "Juris Krumgolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogsagot/qjsml/issues"
+  },
+  "homepage": "https://github.com/yogsagot/qjsml#readme"
+}
