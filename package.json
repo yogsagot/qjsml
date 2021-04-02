@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "pegjs qjsml.pegjs"
+    "generate": "pegjs -o parser.js qjsml.pegjs"
   },
   "repository": {
     "type": "git",
