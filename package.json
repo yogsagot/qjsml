@@ -4,7 +4,8 @@
   "description": "stub for future project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "pegjs qjsml.pegjs"
   },
   "repository": {
     "type": "git",
